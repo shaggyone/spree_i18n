@@ -662,11 +662,11 @@ ru:
   payment_methods_setting_description: "Настройка способов оплаты, которые может использовать клиент"
   payment_processing_failed: "Невозможно произвести платёж, пожалуйста, проверьте введённую информацию"
   payment_state: "Статус платежа"
-  payment_states: 
-    balance_due: частично
+  payment_states:
+    balance_due: частично оплачен
     checkout: оформляется
     completed: завершен
-    credit_owed: в кредит
+    credit_owed: переплата
     failed: ошибка
     paid: оплачен
     pending: в ожидании
@@ -923,10 +923,10 @@ ru:
       subject: "Уведомление о доставке"
   shipment_number: "Отправка №"
   shipment_state: "Статус отправки"
-  shipment_states: 
-    backorder: задерживается
-    partial: частично
-    pending: ожидает
+  shipment_states:
+    backorder: предзаказ
+    partial: частично отправлен
+    pending: комплектуется
     ready: готов
     shipped: отправлен
   shipment_updated: "Отправка обновлена"
