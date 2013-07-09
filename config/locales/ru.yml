@@ -142,6 +142,8 @@ ru:
     models:
       spree/address:
         one: Адрес
+        some: Адреса
+        many: Адресов
         other: Адреса
       spree/cheque_payment:
         one: Оплата чеком
