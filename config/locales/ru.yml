@@ -142,7 +142,7 @@ ru:
     models:
       spree/address:
         one: Адрес
-        some: Адреса
+        few: Адреса
         many: Адресов
         other: Адреса
       spree/cheque_payment:
