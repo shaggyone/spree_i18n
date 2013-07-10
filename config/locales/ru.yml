@@ -147,75 +147,123 @@ ru:
         other: Адреса
       spree/cheque_payment:
         one: Оплата чеком
+        few: Платежей чеком
         other: Платежи чеком
+        many: Платежей чеком
       spree/country:
         one: Страна
+        few: Стран
+        many: Стран
         other: Страны
       spree/credit_card:
         one: "Кредитная карта"
+        few: "Кредитных карт"
+        many: "Кредитных карт"
         other: "Кредитные карты"
       spree/creditcard_payment:
         one: "Платёж кредитной картой"
+        few: "Платежей кредитной картой"
+        many: "Платежей кредитной картой"
         other: "Платёжи кредитной картой"
       spree/creditcard_txn:
         one: "Транзакция кредитной картой"
+        few: "Транзакций кредитной картой"
+        many: "Транзакций кредитной картой"
         other: "Транзакции кредитной картой"
       spree/inventory_unit:
         one: "Inventory Unit"
+        few: "Inventory Unit"
+        many: "Inventory Unit"
         other: "Inventory Units"
       spree/line_item:
         one: "Позиция"
+        few: "Позиций"
+        many: "Позиций"
         other: "Позиции"
       spree/order:
         one: Заказ
+        few: Заказов
+        many: Заказы
         other: Заказы
       spree/payment:
         one: Платёж
+        few: Платежей
+        many: Платежи
         other: Платежи
       spree/product:
         one: Товар
+        few: Товаров
+        many: Товары
         other: Товары
       spree/property:
         one: Свойство
+        few: Свойств
+        many: Свойства
         other: Свойства
       spree/prototype:
         one: Прототип
+        few: Прототипов
+        many: Прототипы
         other: Прототипы
       spree/return_authorization:
         one: Return Authorization
+        few: Return Authorization
+        many: Return Authorization
         other: Return Authorizations
       spree/role:
         one: Роль
+        few: Ролей
+        many: Роли
         other: Роли
       spree/shipment:
         one: Доставка
+        few: Доставок
+        many: Доставки
         other: Доставки
       spree/shipping_category:
         one: "Категория доставки"
+        few: "Категорий доставки"
+        many: "Категории доставки"
         other: "Категории доставки"
       spree/state:
         one: Область/Регион
+        few: Областей/Регионов
+        many: Области/Регионы
         other: Области/Регионы
       spree/tax_category:
         one: "Категория налогов"
+        few: "Категорий налогов"
+        many: "Категории налогов"
         other: "Категории налогов"
       spree/tax_rate:
         one: "Ставка налога"
+        few: "Ставок налога"
+        many: "Ставки налога"
         other: "Ставки налога"
       spree/taxon:
         one: Рубрика
+        few: Рубрик
+        many: Рубрики
         other: Рубрики
       spree/taxonomy:
         one: Категория
+        few: Категорий
+        many: Категории
         other: Категории
       spree/user:
         one: Пользователь
+        few: Пользователей
+        many: Пользователи
         other: Пользователи
       spree/variant:
         one: Вариант
+        few: Вариантов
+        many: Варианты
         other: Варианты
       spree/zone:
         one: Зона
+        few: Зон
+        many: Зоны
         other: Зоны
   add: "Добавить"
   add_action_of_type: Add action of type
